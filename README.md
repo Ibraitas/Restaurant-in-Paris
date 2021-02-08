@@ -1,4 +1,4 @@
-# Restaurant-in-Paris: Project Preview
+# Restaurant in Paris: Project Preview
 
 Exploration of Paris to host an Italian restaurant as part of the Coursera Capstone Project.
 
